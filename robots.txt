@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost:4000/byhodos.github.io/sitemap.xml
+Sitemap: https://byhodos.github.io/byhodos.github.io/sitemap.xml
